@@ -1,0 +1,10 @@
+ // Mostra os dados depois da ordenacao
+    printf("Tempos DEPOIS da ordenacao (minutos):\n");
+    for (i = 0; i < 10; i++) {
+        printf("%d ", tempos[i]);
+    }
+    printf("\n\n");
+
+    // Apos ordenar, o menor tempo esta na posicao 0 e o maior na posicao 9
+    printf("Entrega mais rapida: %d minutos\n", tempos[0]);
+    printf("Entrega mais demorada: %d minutos\n", tempos[9]);

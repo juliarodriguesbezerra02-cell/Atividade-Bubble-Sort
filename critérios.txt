@@ -1,0 +1,9 @@
+ printf("=== Classificacao de tempos de entrega ===\n");
+    printf("Criterio: ordem CRESCENTE (do menor para o maior)\n\n");
+
+    // Mostra os dados antes da ordenacao
+    printf("Tempos ANTES da ordenacao (minutos):\n");
+    for (i = 0; i < 10; i++) {
+        printf("%d ", tempos[i]);
+    }
+    printf("\n\n");

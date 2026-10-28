@@ -81,4 +81,4 @@ Entrega mais demorada: 55 minutos
 
 ## Considerações finais
 
-[ESCREVAM AQUI, COM SUAS PALAVRAS: o que o grupo aprendeu sobre vetores, laços de repetição e o Bubble Sort, quais dificuldades surgiram e como o trabalho em equipe com Git e GitHub ajudou.]
+

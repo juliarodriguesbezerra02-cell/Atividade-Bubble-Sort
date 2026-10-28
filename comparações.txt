@@ -1,0 +1,14 @@
+ // Bubble Sort
+    // O laco externo controla as passadas pelo vetor (9 passadas para 10 elementos)
+    for (i = 0; i < 9; i++) {
+        // O laco interno compara elementos vizinhos
+        // Usamos 9 - i porque, a cada passada, o maior valor ja fica no final
+        for (j = 0; j < 9 - i; j++) {
+            // Se o elemento da esquerda for maior que o da direita, eles trocam de lugar
+            if (tempos[j] > tempos[j + 1]) {
+                temp = tempos[j];          // guarda o valor da esquerda
+                tempos[j] = tempos[j + 1]; // o menor vai para a esquerda
+                tempos[j + 1] = temp;      // o maior vai para a direita
+            }
+        }
+    }

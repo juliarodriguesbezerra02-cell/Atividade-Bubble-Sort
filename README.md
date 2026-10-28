@@ -79,6 +79,4 @@ Entrega mais demorada: 55 minutos
 - Git e GitHub (versionamento)
 - [EDITOR/IDE USADO PELO GRUPO]
 
-## Considerações finais
-
 

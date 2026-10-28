@@ -1,0 +1,14 @@
+# Executaveis e arquivos gerados pela compilacao
+*.exe
+*.o
+*.out
+a.out
+bubble_sort_entregas
+
+# Arquivos de editores e IDEs
+.vscode/
+*.cbp
+*.layout
+*.depend
+bin/
+obj/

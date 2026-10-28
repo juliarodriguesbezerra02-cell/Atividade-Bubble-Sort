@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+int main() {
+    // Tempos de entrega (em minutos) de 10 pedidos de uma empresa de delivery
+    int tempos[10] = {35, 20, 48, 15, 42, 28, 55, 18, 31, 25};
+    int i, j, temp;
+
+    return 0;
+}
